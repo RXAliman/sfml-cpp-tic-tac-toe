@@ -15,6 +15,6 @@ Screenshots:
 How to install:
 1) Import this repository by clicking the green button named 'Code' and selecting the 'Download ZIP'
 2) After the download was finished, locate the file and unzip it
-3) Go to the unzipped file and double-click 'Tic-tac-toe.exe'
+3) Go to the Tic-tac-toe [The Actual Game] inside the unzipped file and double-click 'Tic-tac-toe.exe'
 Note: If you don't trust the .exe file, you can scan it using an online virus scanner such as VirusTotal
 4) Enjoy playing :)
