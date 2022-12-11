@@ -1,6 +1,6 @@
 # sfml-cpp-tic-tac-toe
 
-Simple Tic-tac-toe GUI Game using Simple and Fast Multimedia Library (SFML) and Code::Blocks
+A C++ Tic-tac-toe game made with Simple and Fast Multimedia Library (SFML) and Code::Blocks.
 
 Features:
 1) Count-down timer after the player clicks a piece
